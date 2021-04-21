@@ -256,7 +256,7 @@ Temporary Items
 
 # profiling data
 
-.vscode
+config.py
 ### vscode ###
 .vscode/*
 !.vscode/settings.json
